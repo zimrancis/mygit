@@ -1,0 +1,3 @@
+Hi git!
+This for git file test only.
+Hope everything is fine!
